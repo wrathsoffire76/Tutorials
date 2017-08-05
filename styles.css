@@ -97,7 +97,7 @@ html, body {
   background-color: transparent;
 }
 .mdl-demo .mdl-card__supporting-text + .mdl-card__actions {
-  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  border-top: 1px solid rgba(255, 255, 0, 0.12);
 }
 
 .mdl-demo .mdl-layout__content section:not(:last-of-type) {
@@ -190,7 +190,7 @@ html, body {
   margin: 0 -8px -8px -8px;
 }
 .mdl-demo section.section--center .section__text:not(:last-child) {
-  border-bottom: 1px solid rgba(0,0,0,.13);
+  border-bottom: 1px solid rgba(255,0,0,.13);
 }
 .mdl-demo .mdl-card .mdl-card__supporting-text > h3:first-child {
   margin-bottom: 24px;
