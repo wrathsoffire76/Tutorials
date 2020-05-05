@@ -10,7 +10,7 @@ This is a tutorial on installing custom [Luma3DS splashes](https://github.com/Au
 
 Go to the [Anemone](https://github.com/astronautlevel2/Anemone3DS/releases) GitHub page and download the `Anemone3DS.cia` file. *
 
-![GitHub page](images/theme-cfw/cfwtutorial1.PNG)
+![GitHub page](images/theme-cfw/cfwtutorial1.png)
 
 
 ### Step 2
@@ -34,3 +34,5 @@ Open FBI and go the SD -> `cia` -> Then click on Anemone3DS.cia and click on Ins
 Now go to [Theme Plaza](https://themeplaza.eu) and filter items by splashes. You can press the R button on your console to activate the QR scanner and scan a QR code on the site.
 
 ![Splash tutorial](images/splash-install/splash1.png)
+
+* Note: you can also scan the QR code using FBI on the releases page to install Anemone which will eliminate the need for step 2 and 3.

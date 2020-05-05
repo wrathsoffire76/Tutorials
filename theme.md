@@ -47,7 +47,7 @@ This is a tutorial on how to install custom themes. Make sure you have [CFW](htt
 
 Go to the [Anemone](https://github.com/astronautlevel2/Anemone3DS/releases) GitHub page and download the `Anemone3DS.cia` file. *
 
-![GitHub page](images/theme-cfw/cfwtutorial1.PNG)
+![GitHub page](images/theme-cfw/cfwtutorial1.png)
 
 
 ### Step 2
