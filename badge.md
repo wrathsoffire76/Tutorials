@@ -8,7 +8,7 @@ This is a tutorial on how to install custom badges for your homescreen. Make sur
 
 
 
-Go and download [GYTB](https://github.com/MrCheeze/GYTB) in either .3dsx or .cia format.
+Go and download [GYTB](https://github.com/MrCheeze/GYTB) in either .3dsx or .cia format ([CFW](https://3ds.hacks.guide) required for .cia installation).
 
 ![GitHub page](images/badge/Badges1.PNG)
 

@@ -5,7 +5,6 @@
 Here is a tutorial on how to make themes (WIP, I am not a professional at this)
 
 
-
 ### Step 1
 
 
@@ -189,6 +188,6 @@ In times of trouble, here are places that might help you.
 
 *   [Ryumaru's texture tutorials for themes.](https://gbatemp.net/blog/ryumaru.360795/) These are really good tutorials, especially if you have Photoshop or GIMP.
 *   [The Theme Plaza Discord.](https://discord.gg/2hUQwXz) Really nice community and lots of helpful people for theme making, I'm on there quite a lot too if you want any help from me.
-*   [Smash Custom Music.](http://smashcustommusic.com/) This is the best place for all videogame music in bcstms and other formats.
+*   [Smash Custom Music Archive.](http://smashcustommusic.net/) This is the best place for all videogame music in brstms and other formats (You can use Looping Audio Converter to convert them into bcstm files).
 
 <!-- tabs:end -->

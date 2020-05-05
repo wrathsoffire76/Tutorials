@@ -39,7 +39,7 @@ Now either put your files on the SD cards `themes` folder or scan a QR code on t
 
 #### **How to install themes (CFW)**
 
-This is a tutorial on how to install custom themes. Make sure you have [CFW](https://3ds.guide/) installed before attempting.
+This is a tutorial on how to install custom themes. Make sure you have [CFW](https://3ds.hacks.guide/) installed before attempting.
 
 
 ### Step 1
@@ -75,6 +75,6 @@ Now either put your files on the SD cards `themes` folder or scan a QR code on t
 
 ![GitHub page](images/theme-hb/homebrewtutorial4.png)
 
-* Note: you can also scan the QR code on the releases page to install Anemone which will eliminate the need for step 2 and 3.
+* Note: you can also scan the QR code using FBI on the releases page to install Anemone which will eliminate the need for step 2 and 3.
 
 <!-- tabs:end -->

@@ -9,3 +9,4 @@
  * [How to install custom themes](theme.md)
  * [How to create custom themes](theme-tutorial.md)
  * [How to intstall custom badges](badge.md)
+ * [How to install custom splashes](splash.md)
