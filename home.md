@@ -12,3 +12,4 @@
  * [How to install custom splashes](splash.md)
 
 * [FAQ](faq.md)
+* [Credits](credits.md)
