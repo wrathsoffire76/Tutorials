@@ -102,7 +102,7 @@ Get the source files and put them into Audacity. Make sure to set the Hz rate to
 
 Open Looping Audio Converter and drag the file into it and copy the settings from the screenshot below, then just export as `.bcstm` and put the file into your themes folder. Make sure the file size is below 3.4MB
 
-![GitHub page](images/theme-music/theme2.PNG)
+![GitHub page](images/theme-music/theme2.png)
 
 <!-- Tab 3: How to make soud effects -->
 #### **How to make sound effects**
