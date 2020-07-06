@@ -135,7 +135,7 @@ Export the file as `.bcwav`
 
 Install the SFX using the CWAV manager in Usagi.
 
-![GitHub Page](images/theme-sfx/theme6.png)
+![GitHub Page](images/theme-sfx/theme6.PNG)
 
 <!-- Tab 4: Other resources -->
 #### **Other resources**
