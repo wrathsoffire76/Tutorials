@@ -1,5 +1,5 @@
-#### **How to install badges**
-
+## How to install badges
+---
 This is a tutorial on how to install custom badges for your homescreen. Make sure you can access [homebrew](http://smealum.github.io/3ds/) and make sure that you have installed and have opened the Nintendo Badge Arcade at least once before attempting.
 
 

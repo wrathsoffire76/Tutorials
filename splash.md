@@ -1,6 +1,5 @@
-
-
-#### How to install custom splashes on Nintendo 3DS
+## How to install custom splashes on Nintendo 3DS
+---
 
 This is a tutorial on installing custom [Luma3DS splashes](https://github.com/AuroraWright/Luma3DS/wiki/Optional-features#config-menu-options). Make sure you have [CFW](https://3ds.hacks.guide/) installed before attempting.
 

@@ -1,7 +1,5 @@
-# Welcome to wrathsoffire76's tutorials
-
+## Welcome to wrathsoffire76's tutorials
 ---
-
 ### This is a website for various tutorials that I have written 
 
 
