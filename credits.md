@@ -1,5 +1,8 @@
+## About
+This is a website that I made in order to teach people how to do things.
+
 ## Credits
----
+
 * [wrathsoffire76](https://twitter.com/wrathsoffire76): writer and creator of this site.
 
 * Ryumaru: [his guides](https://gbatemp.net/blog/ryumaru.360795/) inspiried me to create an easier version for beginners.
