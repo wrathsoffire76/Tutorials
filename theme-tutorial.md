@@ -84,7 +84,7 @@ To finalize, look over everything and make sure it's all correct, then generate 
 
 Download the 2.2.1 version of [Looping Audio Converter](https://github.com/libertyernie/LoopingAudioConverter/releases/tag/v2.2.1).
 
-![GitHub page](images/theme-music/theme1.PNG)
+![GitHub page](images/theme-music/theme1.png)
 
 ### Step 2
 
@@ -135,7 +135,7 @@ Export the file as `.bcwav`
 
 Install the SFX using the CWAV manager in Usagi.
 
-![GitHub Page](images/theme-sfx/theme6.png)
+![GitHub Page](images/theme-sfx/theme6.PNG)
 
 <!-- Tab 4: Other resources -->
 #### **Other resources**
