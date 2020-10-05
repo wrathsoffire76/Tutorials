@@ -3,29 +3,29 @@
 <!-- Tab 1: How to make themes -->
 #### **How to make themes**
 
-Here is a tutorial on how to make themes (WIP, I am not a professional at this)
+?> Here is a tutorial on how to make themes (WIP, I am not a professional at this)
 
 ### Step 1
 
 Download the [.zip](https://github.com/wrathsoffire76/tutorials/raw/master/download/Theme%20Templates.zip) file which will have all the resourses available for making themes.
 
-![GitHub page](images/theme-create/tutorial1.PNG)
+[![GitHub page](images/theme-create/tutorial1.PNG)](https://github.com/wrathsoffire76/tutorials/raw/master/download/Theme%20Templates.zip)
 
 ### Step 2
 
 Download the latest version of [Usagi.](https://github.com/usagirei/3DS-Theme-Editor/releases)
 
-![GitHub page](images/theme-create/tutorial2.PNG)
+[![GitHub page](images/theme-create/tutorial2.PNG)](https://github.com/usagirei/3DS-Theme-Editor/releases)
 
 ### Step 3
 
 Download a photo-editor like [Gimp](https://www.gimp.org/downloads/), [Paint.net](https://www.getpaint.net/download.html) or [Photoshop](https://www.adobe.com/ie/products/photoshop.html)
 
-![GitHub page](images/theme-create/tutorial3.1.PNG)
+[![GitHub page](images/theme-create/tutorial3.1.PNG)](https://www.gimp.org/downloads/)
 
-![GitHub page](images/theme-create/tutorial3.2.PNG)
+[![GitHub page](images/theme-create/tutorial3.2.PNG)](https://www.getpaint.net/download.html)
 
-![GitHub page](images/theme-create/tutorial3.3.PNG)
+[![GitHub page](images/theme-create/tutorial3.3.PNG)](https://www.adobe.com/ie/products/photoshop.html)
 
 ### Step 4
 
@@ -35,9 +35,7 @@ Start to gather your resources for making the theme. (Pictures, SFX, Music, etc.
 
 ### Step 5
 
-Extract the .zip file using a program such as [WinRAR](http://www.win-rar.com/download.html) or [7-Zip.](http://www.7-zip.org/download.html)
-
-![GitHub page](images/theme-create/tutorial5.PNG)
+Install your image editor of choice that you downloaded eariler.
 
 ### Step 6
 
@@ -84,7 +82,7 @@ To finalize, look over everything and make sure it's all correct, then generate 
 
 Download the 2.2.1 version of [Looping Audio Converter](https://github.com/libertyernie/LoopingAudioConverter/releases/tag/v2.2.1).
 
-![GitHub page](images/theme-music/theme1.png)
+[![GitHub page](images/theme-music/theme1.png)](https://github.com/libertyernie/LoopingAudioConverter/releases/tag/v2.2.1)
 
 ### Step 2
 
@@ -111,7 +109,7 @@ Open Looping Audio Converter and drag the file into it and copy the settings fro
 
 Download the modifed version of [Audacity](https://github.com/jackoalan/audacity/releases).
 
-![GitHub page](images/theme-sfx/theme1.PNG)
+[![GitHub page](images/theme-sfx/theme1.PNG)](https://github.com/jackoalan/audacity/releases)
 
 ### Step 2
 

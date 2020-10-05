@@ -1,6 +1,6 @@
 ## How to install badges
 ---
-This is a tutorial on how to install custom badges for your homescreen. Make sure you can access [homebrew](http://smealum.github.io/3ds/) and make sure that you have installed and have opened the Nintendo Badge Arcade at least once before attempting.
+?> This is a tutorial on how to install custom badges for your homescreen. Make sure you can access [homebrew](http://smealum.github.io/3ds/) and make sure that you have installed and have opened the Nintendo Badge Arcade at least once before attempting.
 
 
 
@@ -10,7 +10,7 @@ This is a tutorial on how to install custom badges for your homescreen. Make sur
 
 Go and download [GYTB](https://github.com/MrCheeze/GYTB) in either .3dsx or .cia format ([CFW](https://3ds.hacks.guide) required for .cia installation).
 
-![GitHub page](images/badge/Badges1.PNG)
+[![GitHub page](images/badge/Badges1.PNG)](https://github.com/MrCheeze/GYTB)
 
 
 
