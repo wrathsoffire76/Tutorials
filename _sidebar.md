@@ -1,12 +1,12 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](home.md)
+- [Home](home.md)
 
-* 3DS Theming Tutorials
-    * [How to install custom themes](theme.md)
-    * [How to make custom themes](theme-tutorial.md)
-    * [How to install custom badges](badge.md)
-    * [How to install custom splashes](splash.md)
+- **3DS Theming Tutorials**
+    - [Installling Custom Themes](theme.md)
+    - [Making Custom Themes](theme-tutorial.md)
+    - [Installing Custom Badges](badge.md)
+    - [Installing Custom Splashes](splash.md)
 
-* [FAQ](faq.md)
-* [Credits](credits.md)
+- [FAQ](faq.md)
+- [Credits](credits.md)

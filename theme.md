@@ -2,14 +2,15 @@
 
 #### **How to install themes (Homebrew)**
 
-This is a tutorial on how to install custom themes. Make sure you can access [homebrew](http://smealum.github.io/3ds/) before attempting.
+
+?> This is a tutorial on how to install custom themes. Make sure you can access [homebrew](http://smealum.github.io/3ds/) before attempting.
 
 
 ### Step 1
 
 Go to the [Anemone](https://github.com/astronautlevel2/Anemone3DS/releases) GitHub page and download the `Anemone3DS.3dsx` file.
 
-![GitHub page](images/theme-hb/homebrewtutorial1.png)
+[![GitHub page](images/theme-hb/homebrewtutorial1.png)](https://github.com/astronautlevel2/Anemone3DS/releases)
 
 
 ### Step 2
@@ -39,7 +40,7 @@ Now either put your files on the SD cards `themes` folder or scan a QR code on t
 
 #### **How to install themes (CFW)**
 
-This is a tutorial on how to install custom themes. Make sure you have [CFW](https://3ds.hacks.guide/) installed before attempting.
+?> This is a tutorial on how to install custom themes. Make sure you have [CFW](https://3ds.hacks.guide/) installed before attempting.
 
 
 ### Step 1
@@ -47,7 +48,7 @@ This is a tutorial on how to install custom themes. Make sure you have [CFW](htt
 
 Go to the [Anemone](https://github.com/astronautlevel2/Anemone3DS/releases) GitHub page and download the `Anemone3DS.cia` file. *
 
-![GitHub page](images/theme-cfw/cfwtutorial1.png)
+[![GitHub page](images/theme-cfw/cfwtutorial1.png)](https://github.com/astronautlevel2/Anemone3DS/releases)
 
 
 ### Step 2
